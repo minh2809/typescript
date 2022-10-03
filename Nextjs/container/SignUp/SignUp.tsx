@@ -1,7 +1,7 @@
 import React from "react";
-import classes from "./SignUp.module.scss";
-import Title from "../../components/Title/Title";
-import Button from "../../components/Button/Button";
+import classes from "SignUp.module.scss";
+import Title from "components/Title/Title";
+import Button from "components/Button/Button";
 import { useRouter } from "next/router";
 
 function SignUp() {
