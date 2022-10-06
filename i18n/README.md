@@ -19,3 +19,6 @@ module.exports = {
 };
 
 B4: Tạo folder locales với các folder bé cùng ngôn ngữ mình muốn và file dịch theo ngôn ngữ mình chọn
+B5: sử dụng function t để dịch
+
+let { t } = useTranslation();
