@@ -3,7 +3,7 @@ B1: tạo file i18n.json và copy
 "locales": ["en-US", "vi-VN", "en"],
 "defaultLocale": "vi-VN",
 "pages": {
-"\*": ["common"], Lưu ý: trước dấu \* không có \, format code tự thêm \ vào khi lưu
+"\*": ["common"],
 "/about": ["about"]
 }
 
